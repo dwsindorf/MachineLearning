@@ -1,0 +1,7 @@
+data/dog/jpg
+cfg/tiny-yolo-voc.test.cfg
+classes= 2
+/home/dean/data/stop-yield-data/stopsign_00099.jpg
+/home/dean/data/stop-yield-data/stopsign_00001.jpg
+/home/dean/data/stop-yield-data/teat/stopsign_00001.jpg
+/home/data/stop-yield-data/images/yieldsign/yield_001.JPEG
